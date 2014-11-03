@@ -1,4 +1,4 @@
-startupbakery.github.io
-=======================
+serversidesolvers.github.io
+===========================
 
-The Startup Bakery! 
+Server Side Solvers - Beertrepreneurs from Ghent!
